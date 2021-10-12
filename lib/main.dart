@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         seconds: 8,
         navigateAfterSeconds:HomePage(),
         title: new Text(
-          'Helo im sarfas',
+          'Hello Iam sarfas',
           style: new TextStyle(
               fontWeight: FontWeight.bold,
               fontSize: 20.0,
